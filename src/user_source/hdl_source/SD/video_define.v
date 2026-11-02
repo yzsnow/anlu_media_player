@@ -1,0 +1,1 @@
+`define	VIDEO_640_400_2X
